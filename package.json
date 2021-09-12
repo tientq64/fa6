@@ -1,0 +1,8 @@
+{
+	"name": "fa6",
+	"version": "1.0.1",
+	"description": "Font Awesome 6 Pro",
+	"main": "fa6.min.css",
+	"author": "tiencoffee",
+	"license": "Font Awesome 6 Pro"
+}

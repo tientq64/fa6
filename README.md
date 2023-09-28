@@ -1,3 +1,6 @@
+# 2.0.1
+- Nâng lên phiên bản Font Awesome Pro 6.4.2.
+
 # 2.0.0
 - Nâng lên phiên bản Font Awesome Pro 6.4.0.
 - Thêm Sharp font, vào các tập tin riêng.

@@ -65,9 +65,9 @@ App =
 				m.redraw!
 
 	view: ->
-		m \.grid.grid-cols-3.md:grid-cols-6.lg:grid-cols-10.auto-rows-fr.gap-1.p-1.text-center.break-words.bg-gray-50.text-gray-800,
+		m \.grid.grid-cols-3.md:grid-cols-6.lg:grid-cols-12.auto-rows-fr.gap-1.p-1.text-center.break-words.bg-gray-50.text-gray-800,
 			icons.map (icon) ~>
-				m \.flex.flex-col.align-items-center.rounded-lg.cursor-pointer.hover:bg-gray-800.hover:text-white,
+				m \.flex.flex-col.justify-center.rounded-lg.cursor-pointer.hover:bg-gray-800.hover:text-white,
 					onclick: (event) !~>
 						navigator.clipboard.writeText icon.name
 					m \i,

@@ -1,8 +1,8 @@
 {
 	"name": "fa6",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"description": "Font Awesome 6 Pro",
 	"main": "all.min.css",
-	"author": "tiencoffee",
+	"author": "tientq64",
 	"license": "Font Awesome 6 Pro"
 }
